@@ -1,9 +1,11 @@
 {
-    "owner": {
-        "username": "leandrofrancisco03",
-        "email": "2020011024@unfv.edu.pe"
-    },
-    "record": {
-        "CNAME": "leandrofrancisco03.github.io"
-    }
+  "description": "Connectologyia AI Agents and Automation",
+  "repo": "https://github.com/leandrofrancisco03/connectologyTest",
+  "owner": {
+    "username": "leandrofrancisco03",
+    "email": "2020011024@unfv.edu.pe"
+  },
+  "record": {
+    "CNAME": "leandrofrancisco03.github.io"
+  }
 }
